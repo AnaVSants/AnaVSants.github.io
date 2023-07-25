@@ -4,4 +4,20 @@ color: white;
 align-items: center;
 }
 
-<img class="fundo" src="https://images.pexels.com/photos/1276235/pexels-photo-1276235.jpeg" alt="Black and White Cow in Front of Green Leafed Tree">
+body{
+    background-image: "https://images.pexels.com/photos/1276235/pexels-photo-1276235.jpeg"
+}
+.flex-container{
+    display:flex;
+    flex-direction:row;
+    padding: 5px;
+}
+
+.lista{
+    padding: 20px;
+    margin-right: 10px;
+    background-color: rgb(176, 176,238);
+    border: 1px solid #ccc;
+    color: black;
+    text-align: center;
+}
