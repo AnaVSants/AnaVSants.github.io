@@ -1,6 +1,4 @@
-body{
-    background-image: "https://images.pexels.com/photos/1276235/pexels-photo-1276235.jpeg"
-}
+
 .flex-container{
     display:flex;
     flex-direction:row;
